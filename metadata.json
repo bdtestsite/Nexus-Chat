@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A real-time messaging platform with audio and video calling capabilities.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
